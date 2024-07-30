@@ -1,7 +1,5 @@
 - 해당 프로젝트는 온라인 변환기가 전부 무료 플렌에 갯수 제한이 있어서 갯수 제한 없이 무료로 gif로 변환시킬려고 만든 프로젝트 입니다.
 
-https://github.com/ugaugaugaugaugauga/dragonball-poster-page
-
 lang: python   
 env: 3.8
 ```
@@ -9,6 +7,7 @@ pip install pillow==8.2.0
 pip install moviepy==1.0.3
 ```
 
+https://github.com/ugaugaugaugaugauga/dragonball-poster-page
 
 위 사이트의 readme를 작성하는 도중, 특성상 사전 녹화한 mp4 를 gif로 변환해야하는 작업이 많은데,   
 이를 온라인에서 제공해주는 converter를 사용하는데 제한이 있어서 직접 converter를 만들어서 무료로 사용할려고 만든 프로젝트 입니다.
