@@ -1,4 +1,4 @@
-- 해당 프로젝트는 온라인 변환기가 전부 유료 플렌에 갯수 제한이 있어서 무료로 gif로 변환시킬려고 만든 프로젝트 입니다.
+- 해당 프로젝트는 온라인 변환기가 전부 무료 플렌에 갯수 제한이 있어서 갯수 제한 없이 무료로 gif로 변환시킬려고 만든 프로젝트 입니다.
 
 https://github.com/ugaugaugaugaugauga/dragonball-poster-page
 
