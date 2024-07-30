@@ -13,7 +13,7 @@ https://github.com/ugaugaugaugaugauga/dragonball-poster-page
 이를 온라인에서 제공해주는 converter를 사용하는데 제한이 있어서 직접 converter를 만들어서 무료로 사용할려고 만든 프로젝트 입니다.
 
 moviepy라는 라이브러리로 간단하게 구현하였으며, 주의사항은 moviepy는 2019년 이후로 업데이트를 안하여 레거시 에러가 발생합니다.   
-해당 문제는 위에 알려준 명렁어로 설치하면 해결됩니다.
+해당 문제는 위에 적어둔 버젼으로 설치하면 해결됩니다.
 
 ```
 from moviepy.editor import VideoFileClip
